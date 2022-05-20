@@ -1,0 +1,6 @@
+img1.style.boxShadow = "0px 0px 0px 6px rgb(36, 115, 180)"
+    img2.style.boxShadow = "0px 0px 0px 0px rgb(36, 115, 180)"
+    img3.style.boxShadow = "0px 0px 0px 0px rgb(36, 115, 180)"
+    img1.style.boxShadow = "0px 0px 0px 6px #E48A39"
+    img2.style.boxShadow = "0px 0px 0px 0px #E48A39"
+    img3.style.boxShadow = "0px 0px 0px 0px #E48A39"
